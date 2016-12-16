@@ -1,0 +1,44 @@
+body {margin: 0; padding: 0; font-family: sans-serif;}
+header{background-image:url(header.JPG);
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+height: 657px;}
+
+header ul {margin: 0;background: #008D39;font-family: calibri light }
+header ul img {width: 7%; float: left; margin-top: 6px}
+header ul li {float:left;margin: 30px 16px;list-style-type: none;font-size: 19px}
+header ul li a {text-decoration: none; color: #FFF}
+header ul li a:hover {color: #A8A8A8}
+header .motto h2 {color: #fff;text-align: center;color: #fff; margin-top: 180px; font-size: 34px}
+header .pengumuman h3 {margin-top: 160px;background:#008D39;color: #fff;text-align: center;padding: 15px}
+
+header .wrapper-menu {width: 1024px;margin: 0 auto;padding-top: 100px}
+
+.content .wrapper-content {width: 1024px;margin: 0 auto;}
+.content {text-align: center;}
+.content button {background:#00F362 ; cursor: pointer; border: solid 1px #CCC; padding: 10px;font-size: 19px}
+.content button:hover {background: #008D39;}
+ hr {margin-top: 20px; color: #ccc}
+
+.berita {background: #DEDEDE; }
+.berita .wrapper-berita {width: 1024px; margin: 0 auto}
+.berita h2 {text-align: center; padding-top: 20px}
+.berita a {text-decoration: none; color:#0452A2 }
+.berita a:hover {text-decoration: underline;}
+.berita .berita1 {width: 341px;float: left;}
+.berita .berita2 {width: 341px;float: left;}
+.berita .berita3 {width: 341px;float: left;}
+
+.syukur .wrapper-syukur {width: 1024px; margin: 0 auto;}
+.syukur {text-align: center; background: #E8E8E8;padding: 1px; padding-top: 20px;padding-bottom: 30px}
+
+
+
+footer {background:#3D3D3D;padding: 1px;color: #707070}
+footer .wrapper-footer {width: 1024px; margin: 0 auto;}
+footer nav ul {list-style-type: none; float: left;}
+footer nav ul li a {text-decoration: none;color: #707070 }
+footer nav ul li a:hover {text-decoration: underline; color: #fff}
+footer .power .kiri p {float: left;}
+footer .power .kanan p {float: right;}

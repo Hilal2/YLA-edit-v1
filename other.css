@@ -1,0 +1,38 @@
+body {margin: 0; padding: 0; font-family: sans-serif;}
+header ul {margin: 0;background: #008D39;font-family: calibri light;}
+header ul img {width: 7%; float: left; margin-top: 6px}
+header ul li {float:left;margin: 30px 16px;list-style-type: none;font-size: 19px}
+header ul li a {text-decoration: none; color: #FFF}
+header ul li a:hover {color: #A8A8A8}
+
+header .wrapper-menu {width: 1024px;margin: 0 auto;padding-top: 100px}
+
+.tentang .wrapper-tentang {width: 1024px; margin: 0 auto;}
+.tentang h1 {text-align: center; padding-top: 20px}
+
+.sumbangan .wrapper-sumbangan {width: 1024px; margin: 0 auto;}
+.sumbangan h2 {text-align: center;padding-top: 20px}
+.sumbangan table {margin-top: 20px; margin-bottom: 50px}
+
+.project .wrapper-project {width: 1024px; margin: 0 auto;}
+.project h1 {text-align: center; padding-top: 20px}
+hr {width: 50%}
+.project h2 {padding-top: 30px;text-align: center;}
+.project p {text-align: center;}
+.project button {background:#00F362 ; cursor: pointer; border: solid 1px #CCC; padding: 10px;margin-top: 20px;font-size: 19px;margin-bottom: 10px;}
+.project button:hover {background: #008D39;}
+
+
+.gallery .wrapper-gallery {margin: 0 auto;}
+.gallery h2 {text-align: center;}
+.gallery .photo img {width: 449.62px; height: 230px;float: left;opacity:0.90;}
+.gallery .photo img:hover {-moz-opacity:1.0;opacity:1.0;}
+
+footer {background:#3D3D3D;padding: 1px;color: #707070}
+footer .wrapper-footer {width: 1024px; margin: 0 auto;}
+footer nav ul {list-style-type: none; float: left;}
+footer nav ul li a {text-decoration: none;color: #707070 }
+footer nav ul li a:hover {text-decoration: underline; color: #fff}
+footer .power .kiri p {float: left;}
+footer .power .kanan p {float: right;}
+
